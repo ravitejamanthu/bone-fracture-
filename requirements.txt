@@ -22,7 +22,7 @@ kiwisolver==1.4.5
 Markdown==3.4.4
 MarkupSafe==2.1.5
 matplotlib==3.5.3
-numpy==1.19.2
+numpy>=1.23.0
 opencv-contrib-python==4.3.0.36
 opencv-python==4.11.0.86
 packaging==24.0
